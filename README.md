@@ -276,17 +276,32 @@ report-helper/
 
 重新安装，或在本地 skill 目录执行 `git pull`。
 
-## 作者与反馈
+## 相关项目
 
-**嘉然 Jiaran**
+- [ecommerce-helper](https://github.com/Jiaranbb/ecommerce-helper) — 从新品研究、人民币定价到商详与社媒内容的完整电商素材包 Skill；
+- [content-reader](https://github.com/Jiaranbb/content-reader) — 保存小红书、Twitter／X、YouTube 和 B 站内容的组合型 Agent Skills；
+- [xhs-reader](https://github.com/Jiaranbb/xhs-reader) — 免登录保存小红书笔记到本地；
+- [pdf-reader](https://github.com/Jiaranbb/pdf-reader) — 将 PDF 转换成带页码与质量指标的 Markdown；
+- [dreamy-photo](https://github.com/Jiaranbb/dreamy-photo) — 保留真实主体细节的梦幻化照片编辑 Skill；
+- [autoskin-codex](https://github.com/Jiaranbb/autoskin-codex) — 可预览、可撤销的 Codex 桌面主题定制工具；
+- [jiucai-helper](https://github.com/Jiaranbb/jiucai-helper) — 将投资方法和纪律整理成可验证的个人投资决策 Skill。
 
-- 公众号：**嘉然学习笔记**
+更多原创项目见 [Jiaranbb 的 GitHub 主页](https://github.com/Jiaranbb?tab=repositories)。
+
+## 关于作者
+
+**嘉然 Jiaran（Jiaranbb）** — 独立开发者／AI Builder
+
+持续把自己真正需要的工作流做成可复用的 AI 工具与 Skills。
+
+- 个人网站：[c.aoao.ai](https://c.aoao.ai)
+- GitHub：[github.com/Jiaranbb](https://github.com/Jiaranbb)
+- X／Twitter：[@_jiaran](https://x.com/_jiaran)
 - 微信：`evadebot`
-- X：[@_jiaran](https://x.com/_jiaran)
-- GitHub：https://github.com/Jiaranbb/report-helper
+- 公众号：**嘉然学习笔记**
 - 支持与反馈：[SUPPORT.md](./SUPPORT.md)
-- 问题与建议：[GitHub Issues](https://github.com/Jiaranbb/report-helper/issues)
+- 项目问题：[GitHub Issues](https://github.com/Jiaranbb/report-helper/issues)
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+MIT License。详见 [LICENSE](LICENSE)。

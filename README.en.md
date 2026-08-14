@@ -138,16 +138,31 @@ Report quality depends heavily on model capability. Codex GPT-5.5 is recommended
 
 AI-generated reports can still be wrong, including drawing incorrect conclusions from correct facts. Treat outputs as learning references, and use "peer review" between multiple AI agents to challenge assumptions, ask hard questions, and verify reasoning.
 
-## Author & Support
+## Related projects
 
-**嘉然 Jiaran**
+- [ecommerce-helper](https://github.com/Jiaranbb/ecommerce-helper) — a complete e-commerce asset-pack Skill from new-product research and RMB pricing to PDP and social content;
+- [content-reader](https://github.com/Jiaranbb/content-reader) — agent skills for saving Xiaohongshu, Twitter/X, YouTube, and Bilibili content;
+- [xhs-reader](https://github.com/Jiaranbb/xhs-reader) — save Xiaohongshu posts locally without logging in;
+- [pdf-reader](https://github.com/Jiaranbb/pdf-reader) — convert PDFs into Markdown with page markers and quality metrics;
+- [dreamy-photo](https://github.com/Jiaranbb/dreamy-photo) — dreamy photo editing while preserving real subject details;
+- [autoskin-codex](https://github.com/Jiaranbb/autoskin-codex) — preview-first, reversible themes for the Codex desktop app;
+- [jiucai-helper](https://github.com/Jiaranbb/jiucai-helper) — a testable personal investment-decision Skill combining method and discipline.
 
-- WeChat official account: **嘉然学习笔记**
+See more original projects on [Jiaranbb's GitHub profile](https://github.com/Jiaranbb?tab=repositories).
+
+## About the author
+
+**Jiaran (Jiaranbb)** — independent developer / AI Builder
+
+I turn workflows I genuinely need into reusable AI tools and Skills.
+
+- Website: [c.aoao.ai](https://c.aoao.ai)
+- GitHub: [github.com/Jiaranbb](https://github.com/Jiaranbb)
+- X/Twitter: [@_jiaran](https://x.com/_jiaran)
 - WeChat: `evadebot`
-- X: [@_jiaran](https://x.com/_jiaran)
-- GitHub: https://github.com/Jiaranbb/report-helper
+- WeChat official account: **嘉然学习笔记**
 - Support: [SUPPORT.md](./SUPPORT.md)
-- Issues: https://github.com/Jiaranbb/report-helper/issues
+- Project issues: [GitHub Issues](https://github.com/Jiaranbb/report-helper/issues)
 
 ## License
 
